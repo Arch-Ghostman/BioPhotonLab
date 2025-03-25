@@ -66,7 +66,7 @@ BioPhotonLab/
 }
 ```
 
-**🌐 Contato**: [seu-email@instituicao.edu] | [@TwitterLab]  
+**🌐 Contato**: [threelines.fivelines42@gmail.com] | [@TwitterLab]  
 
 ---  
 *"Reinventando a computação com luz e moléculas"* 💡🧬  
