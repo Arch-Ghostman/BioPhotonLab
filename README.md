@@ -60,7 +60,7 @@ BioPhotonLab/
 ```latex
 @article{BioPhotonLab2024,
   title = {Optical-DNA Computing: A Post-Silicon Paradigm},
-  author = {Seu Nome et al.},
+  author = {Roberto Carlos},
   journal = {Nature Biotechnology},
   year = {2024}
 }
