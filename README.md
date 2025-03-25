@@ -71,7 +71,7 @@ BioPhotonLab/
 ---  
 *"Reinventando a computação com luz e moléculas"* 💡🧬  
 
-*(Repositório vinculado ao projeto FAPESP/CNPq [Nº do projeto])*  
+*Projeto independente desenvolvido em iniciativa open-source.*  
 
 --- 
 
